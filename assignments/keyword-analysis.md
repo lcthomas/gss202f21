@@ -1,0 +1,40 @@
+---
+layout: default
+title: Keyword Analysis
+nav_order: 3
+parent: Assignments
+---
+# Keyword Analysis
+* **Due dates: Friday, October 8 and Friday, November 5**
+* **~1,000 words**
+* **You can choose your own citation style, but you should choose one (MLA, Chicago, APA, etc).**
+* **Turn in via Blackboard**
+
+For this assignment, you will select 1 keyword to write about. We will discuss what a “keyword” is in class and keep a running list of keywords from our readings throughout the semester in our class notes and slides folder. I recommend you select a keyword from this list to write about, but you don’t have to (if you want to write about a keyword not from this list, I strongly recommend you clear it with me first). After selecting your keyword, you will then select 2 texts from our course in which this keyword is defined, discussed, depicted, developed, critiqued, and/or extended. You will then write ~1,000 words analyzing what your chosen keyword means and/or how it is significant in these texts.
+
+If you plan to complete 2 keyword analyses this semester, your second keyword analysis should be about a different keyword and include discussions of different texts than your first keyword analysis. Additionally, if you complete 2 keyword analyses this semester, you may discuss 1 text from outside of class in the second keyword analysis you turn in, if you choose (you must stick only to texts assigned in class if you only complete 1 keyword analysis this semester).
+
+You have two options for completing this assignment, each of which is described below. No matter which option you choose, you should aim to be as specific as possible in your discussion of your keyword. Rather than providing general summary or description, select specific quotes, scenes, images, or moments to discuss in each text in relation to your keyword. In order to receive a grade of “Satisfactory” on this assignment, your analysis must be specific.
+
+## 1. Select 2 scholarly works, essays, or interviews to write about.
+If you select this option, you will analyze your chosen keyword using 2 scholarly works (articles or book chapters written by academics, generally speaking), essays (works of non-fiction, generally speaking), or interviews. The most important factor to consider in selecting your texts for this assignment is that you should select 2 works that differ somehow in their discussions of your chosen keyword. Perhaps your second text builds on the discussion of your keyword in your first text, or perhaps your second text critiques the discussion of your keyword in your first text, or perhaps your second text discusses your keyword in a different context. The possibilities here are endless. But no matter what, you should select 2 texts that differ in how they approach your keyword, and you should be able to articulate this difference in your keyword analysis itself.
+
+Your keyword analysis should contain the following elements:
+
+1.	A discussion of how your first text defines your chosen keyword. What does your keyword mean in this text? Don’t shy away from complexity or contradictions here.
+2.	A discussion of how your second text builds on, challenges, critiques, or otherwise extends the discussion of your keyword in the first text. How does this second text define this keyword – or a closely related term or concept – differently, and/or what does it do with this keyword that is different from what the first text does?
+
+## 2. Select 1 scholarly work, essay, or interview and 1 artistic or literary work to write about.
+If you select this option, you will analyze your chosen keyword using 1 scholarly work (an article or book chapter written by an academic, generally speaking), essay (a work of non-fiction, generally speaking), or interview and 1 artistic or literary work, including film. See below for a list of “artistic and literary works” we are discussing this semester in this class. The most important factor to consider in selecting your texts for this assignment is that you select 2 works that relate to each other in some way. Perhaps the scholarly work, essay, or interview you select defines your chosen keyword, while the artistic or literary work you select depicts this concept in an interesting or unique way. Or perhaps the artistic or literary work you select challenges or critiques or re-contextualizes the discussion of your keyword in the scholarly work, essay, or interview you select. Again, the ways that these 2 texts might relate to each other are endless, but you should be able to articulate this relationship in your keyword analysis.
+
+Your keyword analysis should contain the following elements:
+
+1.	A discussion of how your selected scholarly work, essay, or interview defines your chosen keyword. What does your keyword mean in this text? Don’t shy away from complexity or contradictions here.
+2.	A discussion of how your selected artistic or literary work depicts, challenges, and/or extends this keyword or concept. How does your chosen keyword operate in this artistic or literary text? Does this text conceptualize this keyword differently than your selected scholarly work, essay, or interview, and if so, how? Or does your artistic or literary text conceptualize your keyword in ways that broadly align with your selected scholarly work, essay, or interview, and if so, how?
+
+Artistic or literary works assigned this semester:
+* Marlon Riggs, dir., *Tongues Untied* (1989)
+* Cheryl Dunye, dir., *The Watermelon Woman* (1996)
+* Jordy Rosenberg, *Confessions of the Fox* (2018)
+* James Baldwin, *Giovanni’s Room* (1956)
+* Jim Hubbard, dir., *United in Anger: A History of ACT UP* (2012) (sort of a borderline case but I’ll accept it)
