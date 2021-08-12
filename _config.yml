@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: GSS 202
+title: GSS 202 Fall 2021
 email: lindsaythomas@miami.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Introduction to LGBTQ Studies. University of Miami,
