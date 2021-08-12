@@ -179,7 +179,7 @@ I take the principle of academic integrity seriously and treat violations, espec
 Violations of academic integrity constitute grounds for failure of the course and possible expulsion from the university. If you have questions about what constitutes plagiarism, please contact me.
 
 ## Writing and Tutoring Resources
-The Writing Center offers free, one-on-one assistance with any aspect of the writing process. I strongly suggest you take advantage of this resource. [You can schedule a consultation via their website](https://english.as.miami.edu/writing-center/index.html).
+The Writing Center offers free, one-on-one assistance with any aspect of the writing process. I strongly suggest you take advantage of this resource. You can [schedule a consultation via their website](https://english.as.miami.edu/writing-center/index.html).
 
 The Camner Center for Academic Resources also offers free tutoring for UM students. You can learn more and schedule an appointment [here](https://camnercenter.miami.edu/tutoring-services/index.html).
 
