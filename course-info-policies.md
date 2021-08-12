@@ -135,7 +135,7 @@ You will submit your assignments via Blackboard. I will also use Grade Center to
 ### Zoom:
 We will use Zoom for office hours. You can find the office hours Zoom meeting info via our course Blackboard site.
 
-To meet with Prof Thomas during office hours:
+To meet with me during office hours:
 
 1.	From our Blackboard site, click on "Zoom Meeting Info" in the left menu.
 2.	This will take you to a page where you will see a link for our class Zoom sessions and a link for office hours Zoom sessions. To join the office hours Zoom, click the link displayed under "Professor Thomas Spring 2021 Office Hours Zoom Info" (next to "Join Zoom Meeting"). This is the Zoom link we will use throughout the semester for one-on-one meetings.
