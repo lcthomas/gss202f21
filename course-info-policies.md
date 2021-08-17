@@ -155,6 +155,8 @@ Class discussion is a process of creating knowledge together. This is not a lect
 
 The things we read in this class will sometimes be difficult or boring or unfamiliar. It’s ok to not understand them when you first read them! It’s ok that you’ve never taken a class like this before, and/or that you feel frustrated by the reading. Figuring difficult things out together as a group is what class discussion is for. We will all be entering into uncharted territory in this class, and some of the ideas we discuss may confuse you, or make you uncomfortable and angry, or both. We will all experience moments of panic, of flailing, and of error. I ask that you accept this chance to make mistakes, and that you extend this acceptance to your classmates as well.
 
+As you know, class sessions will be recorded for viewing by those who need to miss class for extended periods of time. You will break our collective trust if you share recordings of class conversations with people outside of this class, or on public forums. Doing so will result in a failing grade in this class. Do not do this. 
+
 ## Language and Power
 This class takes seriously the need to examine rather than censor or look away from the messiness, complexity, and, often, ugliness of history and the present. At the same time, our classroom is a contingent community and I treat it as such: we must be accountable to and respectful of each other as we collectively create a space for discussing difficult, and at times uncomfortable, issues.
 
