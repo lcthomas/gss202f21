@@ -17,7 +17,7 @@ Tuesday, August 24:
 
 Thursday, August 26
 * Siobhan Somerville, “Queer,” from *Keywords for American Cultural Studies*, Second Edition (2014) (GD)
-* Donald E. Hall and Annamarie Jagose, “Introduction,” from *The Routledge Queer Studies Reader* (2012) (GD)
+* Donald E. Hall and Annamarie Jagose, “Introduction,” from *The Routledge Queer Studies Reader* (2012), pgs xiv-xvii (GD)
 
 ### Week 2
 Tuesday, August 31
