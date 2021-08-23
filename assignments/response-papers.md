@@ -19,10 +19,15 @@ Your reading responses will be a place for you to work out your thoughts and con
 </details>
 ---
 ## Response 1
-1. Using at least one of the following texts we have read so far -- Somerville, Hall and Jagose, O'Brien, Marcus, or Stryker (so NOT the Blank reading; you will have the opportunity to discuss Blank in response 2 if you choose) -- define the term "queer theory" or "queer studies." You should describe how this text (or texts, if discussing more than one) discusses the term, but please put this definition into your own words as much as possible.
+1. Using at least one of the following texts we have read so far -- Somerville ("Queer"), Hall and Jagose, O'Brien, Marcus, or Stryker (so NOT the Blank reading; you will have the opportunity to discuss Blank in response 2 if you choose) -- define the term "queer theory" or "queer studies." You should describe how this text (or texts, if discussing more than one) discusses the term, but please put this definition into your own words as much as possible.
 2. Using at least one additional text from the above list, describe the relationship between feminism/feminist theory and queer theory or transgender studies and queer theory. You should describe how the reading you chose discusses this relationship, but please put this explanation into your own words as much as possible. In answering this question, if it's helpful to you, you might also think about the second slide from our Tuesday, 08.24.21 class slides (the one where I listed the names of a bunch of women's studies/feminist/gender and sexuality studies programs). What do the names of these programs tell you about this relationship?
 
 ## Response 2
+In this response, you will select the Blank, Somerville ("Scientific Racism and the Emergence of the Homosexual Body"), or the Cohen reading to focus on. In your response, you should do the following:
+
+1. Indicate the author and title of your chosen piece.
+2. Provide a 1-2 paragraph summary of the argument and/or main point(s) of your chosen piece, in your own words. You should try to keep direct quotations of this piece to a minimum, though you may include a few as needed.
+3. Include brief definitions and discussions of 2 keywords and/or key concepts from your chosen piece, in your own words.
 
 ## Response 3
 
