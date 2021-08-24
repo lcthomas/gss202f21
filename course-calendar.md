@@ -142,7 +142,7 @@ Tuesday, November 9
 * Neil R. Schram open letter to the Gay and Lesbian Community (1986) (GD)
 
 Thursday, November 11
-•	Sarah Schulman, “Introduction: How Change Is Made,” from *Let the Record Show: A Political History of ACT UP New York, 1987-1993* (2021) (GD)
+* Sarah Schulman, “Introduction: How Change Is Made,” from *Let the Record Show: A Political History of ACT UP New York, 1987-1993* (2021) (GD)
 
 Friday, November 12
 * **Response 8 due**
