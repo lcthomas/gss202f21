@@ -27,7 +27,7 @@ In this response, you will select the Blank, Somerville ("Scientific Racism and 
 
 1. Indicate the author and title of your chosen piece.
 2. Provide a 1-2 paragraph summary of the argument and/or main point(s) of your chosen piece, in your own words. You should try to keep direct quotations of this piece to a minimum, though you may include a few as needed.
-3. Include brief definitions and discussions of 2 keywords and/or key concepts from your chosen piece, in your own words.
+3. Include brief discussions of 2 keywords and/or key concepts from your chosen piece. In discussing your keywords, you should include 1 quote for each keyword in which that keyword is mentioned, discussed, and/or explained. You should then explain what this keyword means for this piece and/or why it's important to understanding the author's argument in your own words.
 
 ## Response 3
 
