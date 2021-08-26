@@ -9,6 +9,7 @@ parent: Assignments
 * **First contract reassessment due Friday, October 8**
 * **Second contract reassessment due Friday, November 5**
 * **Turn in via Blackboard**
+* **[Download a pdf of this page](http://lindsaythomas.net/gss202f21/assignments/gss-202-grading-contract.pdf)
 
 ## Grade Contract: Due Friday, September 3
 You will determine the grade you will receive in this course by fulfilling a contract you will turn in on Friday, September 3. I will read your contract and either confirm acceptance or, if needed, suggest adjustments and stipulations.
