@@ -65,7 +65,7 @@ Thursday, September 23
 Friday, September 24
 * **Response 4 due**
 
-Week 6
+### Week 6
 Tuesday, September 28
 * Jordy Rosenberg, *Confessions of the Fox* (2018), Part I, Ch 7 – Part II, Ch 4 (pgs 47-146)
 
@@ -151,7 +151,7 @@ Friday, November 12
 Tuesday, November 16
 * Jim Hubbard, dir., *United in Anger: A History of ACT UP* (2012), <https://miami.kanopy.com/product/united-anger-history-act-0> (1 hour, 33 minutes)
     * This film is available to stream for free for UM students through our library (via Kanopy). Clicking the link above will take you to a page that requires you to sign in with your UM CaneID and password. After you enter those, you will be able to stream the film.
-* ACT UP Oral History Project: http://www.actuporalhistory.org/interviews/. Please select one interview transcript to read/skim.
+* ACT UP Oral History Project: <http://www.actuporalhistory.org/interviews/>. Please select one interview transcript to read/skim.
 
 Thursday, November 18
 * Jim Hubbard, dir., *United in Anger: A History of ACT UP* (2012), con’t
