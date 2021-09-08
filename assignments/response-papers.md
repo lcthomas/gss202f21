@@ -30,6 +30,10 @@ In this response, you will select the Blank, Somerville ("Scientific Racism and 
 3. Include brief discussions of 2 keywords and/or key concepts from your chosen piece. In discussing your keywords, you should include 1 quote for each keyword in which that keyword is mentioned, discussed, and/or explained. You should then explain, in your own words, what this keyword means for this piece and/or why it's important to understanding the author's argument.
 
 ## Response 3
+You should respond to both of the below questions for this response:
+
+1. What does Muñoz's concept of "disidentification" mean? You should describe how Muñoz discusses the term, but please put this definition into your own words as much as possible. (~1 paragraph)
+2. Select 1 scene or segment from Marlon Rigg's *Tongues Untied* that you see as a good example, demonstration, and/or complication of disidentification and explain how or why it is a good example, demonstration, and/or complication of this concept. Please provide the timestamps of your chosen scene or segment in your response. (~1-2 paragraphs)
 
 ## Response 4
 
