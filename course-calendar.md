@@ -62,7 +62,7 @@ Friday, September 17
 
 ### Week 5
 Tuesday, September 21
-* Cheryl Dunye, dir., *The Watermelon Woman* (1996),<https://miami.kanopy.com/video/watermelon-woman> (1 hour, 24 minutes)
+* Cheryl Dunye, dir., *The Watermelon Woman* (1996), THIS LINK IS NOT WORKING RIGHT NOW, SEE BELOW (<https://miami.kanopy.com/video/watermelon-woman>) (1 hour, 24 minutes)
     * Unfortunately, while this film used to be available via our library on Kanopy, it seems that our subscription to this film has just expired. I've asked them to renew it, but I don't know if it will happen in time for our viewing of this film. Watch this space and your email for updates from me on that.
     * Other ways to watch:
         * Free but somewhat crap quality archive.org version. Find this by Googling "the watermelon woman archive.org". It should be the first result that comes up (hosted by archive.org).
