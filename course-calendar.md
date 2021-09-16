@@ -63,7 +63,12 @@ Friday, September 17
 ### Week 5
 Tuesday, September 21
 * Cheryl Dunye, dir., *The Watermelon Woman* (1996),<https://miami.kanopy.com/video/watermelon-woman> (1 hour, 24 minutes)
-    * This film is available to stream for free for UM students through our library (via Kanopy). Clicking the link above will take you to a page that requires you to sign in with your UM CaneID and password (and/or to set up a Kanopy account with your UM credentials). After you enter those, you will be able to stream the film.
+    * Unfortunately, while this film used to be available via our library on Kanopy, it seems that our subscription to this film has just expired. I've asked them to renew it, but I don't know if it will happen in time for our viewing of this film. Watch this space and your email for updates from me on that.
+    * Other ways to watch:
+        * Free but somewhat crap quality archive.org version. Find this by Googling "the watermelon woman archive.org". It should be the first result that comes up (hosted by archive.org).
+        * If you have a way to play a DVD (!), there is a DVD of this film available at our library. You can find it by searching for "The Watermelon Woman" on [UM Library homepage](https://www.library.miami.edu/).
+        * If you subscribe to Amazon Prime, Showtime (or Showtime via Hulu), you can watch *The Watermelon Woman* there (Google "watch The Watermelon Woman online").
+        * You can find other (paid) streaming options online via this page: <https://www.justwatch.com/us/movie/the-watermelon-woman>
 
 Thursday, September 23
 * Jordy Rosenberg, *Confessions of the Fox* (2018), Editor’s Foreword – Part I, Ch. 6 (through pg 46). Always read the footnotes!
