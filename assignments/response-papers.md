@@ -46,7 +46,7 @@ The scenes above are just a few of the scenes featuring the display of “archiv
 
  1.b. Why is Cheryl (the character) so interested in The Watermelon Woman? Is her fascination with this figure an example of identification, disidentification, and/or both? Make sure to refer to at least one specific moment or scene from the film that provides evidence of your point/explanation (make sure to provide a timestamp).
 
- 2. Please answer all of the following questions: Who is the Editor? Who is Jack? Who is Bess? And who or what is P-------?
+ 2.. Please answer all of the following questions: Who is the Editor? Who is Jack? Who is Bess? And who or what is P-------?
 
 ## Response 5
 
