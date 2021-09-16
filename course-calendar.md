@@ -50,6 +50,12 @@ Tuesday, September 14
 Thursday, September 16
 * Marlon Riggs, dir., *Tongues Untied* (1989), <https://fod-infobase-com.access.library.miami.edu/p_ViewVideo.aspx?xtid=57872> (53:52)
     * This film is available to stream for free for UM students through our library (via Films on Demand). Clicking the link above will take you to a page that requires you to sign in with your UM CaneID and password. After you enter those, you will be able to stream the film.
+    * If the link isn't working for you, follow these steps to watch the film:
+        * Head to the [UM Library homepage](https://www.library.miami.edu/), and scroll down to the “Databases A-Z” section.
+        * Select F, and you’ll be taken to a screen listing all of the databases that start with F.
+        * Scroll down to “Films On Demand: Master Academic Package,” and click on that. If you are not on campus, you may be prompted at this point to enter your CaneID and password.
+        * Once you’ve logged into the service, enter “Tongues Untied” into the search bar at the top and hit enter/return/select search.
+        * When the results screen populates, scroll down to Tongues Untied (for me it’s the fifth result listed) and click on it. You should now be able to watch the film.
 
 Friday, September 17
 * **Response 3 due**
