@@ -80,22 +80,23 @@ Friday, September 24
 
 ### Week 6
 Tuesday, September 28
-* Jordy Rosenberg, *Confessions of the Fox* (2018), Part I, Ch 7 – Part II, Ch 4 (pgs 47-146)
+* Jordy Rosenberg, *Confessions of the Fox* (2018), Part I, Ch 7 – Part II, Ch 4 (pgs 47-147)
 
 Thursday, September 30
-* Jordy Rosenberg, *Confessions of the Fox* (2018), Part II, Ch 5 – Ch 14 (pgs 148-224)
+* Jordy Rosenberg, *Confessions of the Fox* (2018), Part II, Ch 5 – Ch 14 (pgs 148-227)
 
 Friday, October 1
 * **Response 5 due**
 
 ### Week 7
 Tuesday, October 5
-* Discussion of keyword analysis
-
-Thursday, October 7
 * Jordy Rosenberg, *Confessions of the Fox* (2018), Part III, Ch 1 – Ch 13 (pgs 231-316)
 
-Friday, October 8
+Thursday, October 7
+* Jordy Rosenberg, *Confessions of the Fox* (2018), wrap-up
+* Discussion of keyword analysis
+
+Sunday, October 10
 * **First Contract Reassessment due**
 * **Keyword Analysis due**
 
