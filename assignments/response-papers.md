@@ -36,6 +36,17 @@ You should respond to both of the below questions for this response:
 2. Select 1 scene or segment from Marlon Rigg's *Tongues Untied* that you see as a good example, demonstration, and/or complication of disidentification and explain how or why it is a good example, demonstration, and/or complication of this concept. Please provide the timestamps of your chosen scene or segment in your response. (~1-2 paragraphs)
 
 ## Response 4
+For this response, you should respond to EITHER question 1.a OR question 1.b (you only need to answer one of them). Then, you should respond to question 2.
+
+1.a. Please rewatch the following 3 short scenes from *The Watermelon Woman* before writing your response:
+* The Lee Edwards scene (~22:34-25ish)
+* The scene where Cheryl shows the camera pictures of Black entertainers and film stars (~30:18-31:00)
+* The closing credits scene (~1:14:44-end of the film).
+The scenes above are just a few of the scenes featuring the display of “archival” materials that Cheryl (the character) has found in her research about The Watermelon Woman. In these scenes, Dunye (the director) mixes actual historical photographs and footage with fictional “historical” photographs and footage. This kind of mixing is also important to the genre of the film, as it incorporates elements of the “pseudo-documentary” style (i.e., a narrative feature film that adopts the style of a documentary; this style is related to, but distinct from, the more popular "mockumentary" style, e.g., the TV show *The Office*). As Dunye has said about the film, “The Watermelon Woman came from the real lack of any information about the lesbian and film history of African American women. Since it wasn't happening, I invented it.” What is the importance and/or effect of the film’s “invention” of history? Another way of asking this question is this: Why does this film adopt elements of the pseudo-documentary style? Why is this a (fictional) film about someone making a (documentary) film about trying to find information about a (fictional) historical figure?
+
+ 1.b. Why is Cheryl (the character) so interested in The Watermelon Woman? Is her fascination with this figure an example of identification, disidentification, and/or both? Make sure to refer to at least one specific moment or scene from the film that provides evidence of your point/explanation (make sure to provide a timestamp).
+
+ 2. Please answer all of the following questions: Who is the Editor? Who is Jack? Who is Bess? And who or what is P-------?
 
 ## Response 5
 
