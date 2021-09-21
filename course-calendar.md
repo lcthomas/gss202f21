@@ -80,10 +80,10 @@ Friday, September 24
 
 ### Week 6
 Tuesday, September 28
-* Jordy Rosenberg, *Confessions of the Fox* (2018), Part I, Ch 7 – Part II, Ch 4 (pgs 47-147)
+* Jordy Rosenberg, *Confessions of the Fox* (2018), Part I, Ch 7 – Part II, Ch 7 (pgs 47-169)
 
 Thursday, September 30
-* Jordy Rosenberg, *Confessions of the Fox* (2018), Part II, Ch 5 – Ch 14 (pgs 148-227)
+* Jordy Rosenberg, *Confessions of the Fox* (2018), Part II, Ch 8 – Ch 14 (pgs 170-227)
 
 Friday, October 1
 * **Response 5 due**
