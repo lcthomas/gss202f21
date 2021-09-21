@@ -9,6 +9,7 @@ parent: Assignments
 * **~1,000-1,500 words**
 * **You can choose a citation style, but you should choose one (MLA, Chicago, APA, etc).**
 * **Turn in via Blackboard**
+* * **[Download a pdf of this page](http://lindsaythomas.net/gss202f21/assignments/gss-202-keyword.pdf)
 
 For this assignment, you will select 1 keyword to write about. We will discuss what a “keyword” is in class and keep a running list of keywords from our readings throughout the semester in our class notes and slides folder. I recommend you select a keyword from this list to write about, but you don’t have to (if you want to write about a keyword not from this list, I strongly recommend you clear it with me first). After selecting your keyword, you will then select 2 texts from our course in which this keyword is defined, discussed, depicted, developed, critiqued, and/or extended. You will then write ~1,000-1,500 words analyzing what your chosen keyword means and/or how it is significant in these texts.
 
