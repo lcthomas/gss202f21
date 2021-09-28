@@ -55,7 +55,7 @@ This week in class we discussed the ways that secrecy and confession, disclosure
 For your response this week, you will reflect more on the role of confession and disclosure in the novel (you should respond to both 1 and 2 below).
 
 1. First, select 1 passage or scene from the novel in which someone confesses or discloses something and 1 passage or scene from the novel in which someone (or the novel itself) refuses to confess or disclose something. Write the page number(s) of each of these passages or scenes, as well as the lines with which they begin and end, at the top of your paper.
-2. Write ~2 paragraphs in which you respond to the following questions: What differentiates the passages or scenes you have selected? In other words, under what circumstances is secrecy freeing, and under what conditions is it harmful? Ditto confession: Under what circumstances is it freeing, and under what conditions is it harmful? You should quote directly from the passages or scenes you have selected in your response, including the page numbers, to provide evidence for your response.
+2. Write ~2 paragraphs in which you respond to the following questions: What differentiates the passages or scenes you have selected? What makes some confessions or disclosures "good" and others "bad" in the novel? In your response, you might think about the following questions: Under what circumstances is secrecy freeing, and under what conditions is it harmful? And under what circumstances is confession freeing, and under what conditions is it harmful? You should quote directly from the passages or scenes you have selected in your response, including the page numbers, to provide evidence for your interpretations or points.
 
 ## Response 6
 

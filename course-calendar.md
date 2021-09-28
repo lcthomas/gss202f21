@@ -95,6 +95,7 @@ Tuesday, October 5
 Thursday, October 7
 * Jordy Rosenberg, *Confessions of the Fox* (2018), wrap-up
 * Discussion of keyword analysis
+    * You should know which keyword and which texts you are planning to write about by class on this day.
 
 Sunday, October 10
 * **First Contract Reassessment due**
