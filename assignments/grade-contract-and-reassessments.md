@@ -6,7 +6,7 @@ parent: Assignments
 ---
 # Grade Contract and Reassessments
 * **Grade contract due Friday, September 3**
-* **First contract reassessment due Friday, October 8**
+* **First contract reassessment due Sunday, October 10**
 * **Second contract reassessment due Friday, November 5**
 * **Turn in via Blackboard**
 * **[Download a pdf of this page](http://lindsaythomas.net/gss202f21/assignments/gss-202-grading-contract.pdf)
@@ -55,7 +55,7 @@ To contract for an “C” in this course, you agree to:
 ### “D” and “F” Grades
 You can earn a “D” or “F” grade if you fail to meet your contractual obligations in a systematic way. A “D” grade denotes some minimal fulfilling of the contract. An “F” is absence of enough “Satisfactory” work to warrant passing of the course.
 
-## Contract Reassessments: Due Friday, October 8 and Friday, November 5
+## Contract Reassessments: Due Sunday, October 10 and Friday, November 5
 Twice during the semester, you will evaluate your work so far and compare it against what you agreed in your grade contract. In these moments you can also take the opportunity to request an adjustment to your contract in either direction. If you find that you will be unable to meet the obligations of your contract, you may decide to move to the next lowest grade and its requirements. On the other hand, if you find that you’ve been performing above the obligations of your contract, you may decide to fulfill the requirements for the next higher grade. You can also use this moment to suggest alternative ways of fulfilling your contracted grade. Your contract reassessments will also allow both you and me to make sure that we are each keeping track of the course work you have completed so far accurately.
 
 As with the grade contract itself, there are no specific length or formatting requirements for this assignment; you can structure it however you would like. But each contract reassessment should include:

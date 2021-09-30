@@ -104,17 +104,17 @@ Sunday, October 10
 ## Unit 3: The Personal and the Political
 ### Week 8
 Tuesday, October 12
-* James Baldwin, *Giovanni’s Room* (1956), Part I (pgs 3-71)
+* Audre Lorde, “Uses of the Erotic: The Erotic as Power” (1978)
+* Introduction to *Giovanni's Room*: mini-lecture by Professor Thomas
 
 Thursday, October 14: Fall break – NO CLASS
 
 ### Week 9
 Tuesday, October 19
-* James Baldwin, *Giovanni’s Room* (1956), Part II, Ch 1-5 (pgs 75-169)
+* James Baldwin, *Giovanni’s Room* (1956), Part I - Part II, Ch 2 (pgs 3-102)
 
 Thursday, October 21
-* James Baldwin, *Giovanni’s Room* wrap-up
-* Audre Lorde, “Uses of the Erotic: The Erotic as Power” (1978)
+* James Baldwin, *Giovanni’s Room* (1956), Part II, Ch 3-5 (pgs 103-169)
 
 Friday, October 22
 * **Response 6 due**
