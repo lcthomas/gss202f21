@@ -58,6 +58,11 @@ For your response this week, you will reflect more on the role of confession and
 2. Write ~2 paragraphs in which you respond to the following questions: What differentiates the passages or scenes you have selected? What makes some confessions or disclosures "good" and others "bad" in the novel? In your response, you might think about the following questions: Under what circumstances is secrecy freeing, and under what conditions is it harmful? And under what circumstances is confession freeing, and under what conditions is it harmful? You should quote directly from the passages or scenes you have selected in your response, including the page numbers, to provide evidence for your interpretations or points.
 
 ## Response 6
+For this response, you should respond to EITHER question 1 OR question 2 (you only need to answer one of them). Make sure to indicate in your response which question you are responding to.
+
+1. Consider Audre Lorde’s concept of the erotic in relation to _Giovanni’s Room_. Based on your reading of Lorde’s essay, what do you imagine she might say to David about the erotic? You should ground your ~2-paragraph response in at least 1 passage from _Giovanni’s Room_ and at least 1 passage from Lorde’s essay (the passage from Lorde’s essay should not be one you discussed in your answer to question 1). Make sure to cite page numbers.
+
+2. This is a free response option: you can write about anything related to _Giovanni's Room_ that you would like to discuss. This is an opportunity to reflect in more depth on something we discuss in class or on something you have noticed about or observed in the novel. No matter what you discuss, your response should be about 2 paragraphs long, and it should be specific. You should ground your discussion in at least 1 passage from the text. In fact, a good way to decide what to write about for this response is to think about a specific passage or moment from the novel that confuses you, that you can't explain, or that you don't understand. While, again, your response should be specific, you don't need to arrive at any definite conclusions.
 
 ## Response 7
 
