@@ -67,5 +67,6 @@ For this response, you should respond to EITHER question 1 OR question 2 (you on
 ## Response 7
 
 ## Response 8
+Response 8 is cancelled, but it will count for everyone as if you have turned it in.
 
 ## Response 9

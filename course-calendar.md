@@ -160,7 +160,7 @@ Thursday, November 11
 * Sarah Schulman, “Introduction: How Change Is Made,” from *Let the Record Show: A Political History of ACT UP New York, 1987-1993* (2021) (GD)
 
 Friday, November 12
-* **Response 8 due**
+* **Response 8 free pass: Response 8 is cancelled, but it will count for everyone as if you have turned it in.**
 
 ### Week 13
 Tuesday, November 16
