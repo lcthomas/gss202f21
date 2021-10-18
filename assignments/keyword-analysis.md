@@ -5,7 +5,7 @@ nav_order: 3
 parent: Assignments
 ---
 # Keyword Analysis
-* **Due dates: Sunday, October 10 and Friday, November 5**
+* **Due dates: Sunday, October 10 and Sunday, November 7**
 * **~1,000-1,500 words**
 * **You can choose a citation style, but you should choose one (MLA, Chicago, APA, etc).**
 * **Turn in via Blackboard**

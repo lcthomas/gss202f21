@@ -140,7 +140,7 @@ Tuesday, November 2
 Thursday, November 4
 * Butler and Snorton, con’t
 
-Friday, November 5
+Sunday, November 7
 * **Second Contract Reassessment due**
 * **Keyword Analysis due**
 
