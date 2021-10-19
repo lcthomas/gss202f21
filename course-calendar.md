@@ -139,6 +139,7 @@ Tuesday, November 2
 
 Thursday, November 4
 * Butler and Snorton, con’t
+* Keyword analysis workshop
 
 Sunday, November 7
 * **Second Contract Reassessment due**
