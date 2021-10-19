@@ -139,7 +139,7 @@ Tuesday, November 2
 
 Thursday, November 4
 * Butler and Snorton, con’t
-* Keyword analysis workshop
+* Keyword analysis workshop: You should come to class knowing which keyword and which texts you want to write about. Bring a laptop or a tablet and at least one of the texts you are planning to write about.
 
 Sunday, November 7
 * **Second Contract Reassessment due**
