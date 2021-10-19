@@ -36,7 +36,7 @@ Finally, you will write a ~1,500-2,000 word critical introduction to your archiv
 
 1. Explain what history of queerness and/or queer communities your archive tells. What would a historian working 50 years from now learn from this archive?
 2. Explain why you have selected these objects to tell this history. How are all of these objects connected to one another and how or why are they important for understanding the history you want to tell?
-3. Relate this discussion to specific ideas, passages, and/or moments from at least 2 readings from our course.
+3. Relate this discussion to specific ideas, passages, and/or moments from at least 2 texts (or films, etc.) from our course.
 
 ## Final Self-Assessment
 The final self-assessment, like the two contract reassessments you have completed this semester, is about documenting the work you've done to earn the grade you've contracted for. It should include the following things:
