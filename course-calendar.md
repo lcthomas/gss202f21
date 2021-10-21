@@ -121,7 +121,8 @@ Friday, October 22
 
 ### Week 10
 Tuesday, October 26
-* James Baldwin and Audre Lorde, “Revolutionary Hope: A Conversation Between James Baldwin and Audre Lorde”, *Essence* (1984) (GD)
+* James Baldwin and Audre Lorde, “Revolutionary Hope: A Conversation Between James Baldwin and Audre Lorde”, *Essence* (1984), <https://mocada-museum.tumblr.com/post/73421979421/revolutionary-hope-a-conversation-between-james>
+    * The first two paragraphs on this page provide some contexualization of the interview: <http://theculture.forharriet.com/2014/03/revolutionary-hope-conversation-between.html>
 * James Baldwin, “‘Go the Way Your Blood Beats’: An Interview with James Baldwin,” *Village Voice* (1984) (GD)
 
 Thursday, October 28
