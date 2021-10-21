@@ -123,7 +123,7 @@ Friday, October 22
 Tuesday, October 26
 * James Baldwin and Audre Lorde, “Revolutionary Hope: A Conversation Between James Baldwin and Audre Lorde”, *Essence* (1984), <https://mocada-museum.tumblr.com/post/73421979421/revolutionary-hope-a-conversation-between-james>
     * The first two paragraphs on this page provide some contexualization of the interview: <http://theculture.forharriet.com/2014/03/revolutionary-hope-conversation-between.html>
-* James Baldwin, “‘Go the Way Your Blood Beats’: An Interview with James Baldwin,” *Village Voice* (1984) (GD)
+* James Baldwin, “‘Go the Way Your Blood Beats’: An Interview with James Baldwin,” *Village Voice* (1984) (GD). Read online here: <https://www.villagevoice.com/2018/06/22/james-baldwin-on-being-gay-in-america/>
 
 Thursday, October 28
 * Audre Lorde, *Zami: A New Spelling of My Name* (1982), Ch 23 (pgs 176-183) (GD)
