@@ -160,6 +160,7 @@ Tuesday, November 9
 
 Thursday, November 11
 * Sarah Schulman, “Introduction: How Change Is Made,” from *Let the Record Show: A Political History of ACT UP New York, 1987-1993* (2021) (GD)
+    * If you are interested in looking at an ACT UP New York timeline that details the group's activities and important moments in the history of LGBTQ and AIDS activism in the US, see the file titled "Schulman -- ACT UP Timeline" in our course readings folder. It provides a chronological backdrop to the historical overview Schulman gives in the introduction to her book. (GD)
 
 Friday, November 12
 * **Response 8 free pass: Response 8 is canceled, but it will count for everyone as if you have turned it in.**
