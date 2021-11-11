@@ -169,6 +169,18 @@ Friday, November 12
 Tuesday, November 16
 * Jim Hubbard, dir., *United in Anger: A History of ACT UP* (2012), <https://miami.kanopy.com/product/united-anger-history-act-0> (1 hour, 33 minutes)
     * This film is available to stream for free for UM students through our library (via Kanopy). Clicking the link above will take you to a page that requires you to sign in with your UM CaneID and password. After you enter those, you will be able to stream the film.
+    * If the link isn't working for you, follow these steps to watch the film:
+        * Head to the [UM Library homepage](https://www.library.miami.edu/), and scroll down to the “Databases A-Z” section.
+        * Select K, and you’ll be taken to a screen listing all of the databases that start with K.
+        * Select "Kanopy". If you are not on campus, you may be prompted at this point to enter your CaneID and password and/or create an individual Kanopy account using your UM credentials.
+        * Once you’ve logged into the service, enter “United In Anger” into the search bar at the top. Once you start typing, the film should come up automatically. Select the film.
+        * You should now be taken to a screen where you are able to watch the film.
+    * You can also access the film via our course Blackboard page:
+        * From our Blackboard page, click on "uReserves" in the left-hand menu.
+        * Then select "Items on Course Reserves."
+        * You will then be taken to a screen where you will need to select the title of the film ("United In Anger").
+        * After you click on the title, a dialogue box will pop up. Click on the "View online" link under "Links & Availability."
+        * You will then be taken to a screen where you can watch the film (if you are not on campus, you may need to sign in to Kanopy before you can watch the film).
 * ACT UP Oral History Project: <http://www.actuporalhistory.org/interviews/>. Please select one interview transcript to read/skim.
 
 Thursday, November 18
