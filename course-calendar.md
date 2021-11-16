@@ -183,7 +183,7 @@ Tuesday, November 16
         * You will then be taken to a screen where you can watch the film (if you are not on campus, you may need to sign in to Kanopy before you can watch the film).
 * ACT UP Oral History Project: <http://www.actuporalhistory.org/interviews/>. Please select one interview transcript to read/skim. Here's how to access the interview transcripts:
     * You can use the link above (<http://www.actuporalhistory.org/interviews/>) to browse through the interviews and select one to skim. Note its number (e.g., “Interview #002).
-    * Once you’ve found one you would like to skim, go to this page: <https://actuporalhistory.org/numerical-interviews.> At the top of the page, you will see links that page you to groups of interviews, organized by number. Click on the link that includes the number of the interview you want to skim.
+    * Once you’ve found one you would like to skim, go to this page: <https://actuporalhistory.org/numerical-interviews> At the top of the page, you will see links that page you to groups of interviews, organized by number. Click on the link that includes the number of the interview you want to skim.
     * You will then be taken to a page where you can select the interview. Clicking on it will take you to a page where you can watch a full, unedited version of the interview, watch an excerpt, or read the transcript. Select “Transcript” to skim the transcript.
 
 Thursday, November 18
