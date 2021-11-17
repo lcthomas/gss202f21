@@ -189,7 +189,7 @@ Tuesday, November 16
 Thursday, November 18
 * Jim Hubbard, dir., *United in Anger: A History of ACT UP* (2012), con’t
 * Vito Russo, “Why We Fight,” speech at ACT UP demonstration in Albany, NY, May 9, 1988, <https://actupny.org/documents/whfight.html>
-    * Watch speech on YouTube: <https://www.youtube.com/watch?v=C0Q8p0HCQE>
+    * Watch speech on Vimeo: <https://vimeo.com/291624906>
 * Recommended (not required): “Queers Read This,” by Anonymous Queers, pamphlet distributed at NYC Pride, June 1990 <http://www.qrd.org/qrd/misc/text/queers.read.this>
 * Recommended (not required): Michael Specter, "How ACT UP Changed America," June 14, 2021, _The New Yorker_, <https://www.newyorker.com/magazine/2021/06/14/how-act-up-changed-america>
 
