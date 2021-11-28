@@ -207,6 +207,7 @@ Tuesday, November 30
 
 Thursday, December 2
 * Final project workshop, wrap-up
+* Course evaluations
 
 ### Week 16
 Tuesday, December 7: NO CLASS
