@@ -211,7 +211,7 @@ Thursday, December 2
 
 ### Week 16
 Tuesday, December 7: NO CLASS
-* Open office hours during class time
+* Open office hours from 1-3 pm outside the Ashe building
 
 Fri, Dec 10
 * **Final Project due**
